@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SfgPetClinic21Application {
 
-	public static void main(String[] args) {
+	static void main(String[] args) {
 		SpringApplication.run(SfgPetClinic21Application.class, args);
+		//System.out.println{"asdad"};
 	}
-
 }
